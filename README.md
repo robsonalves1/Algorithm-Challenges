@@ -12,3 +12,15 @@ This repository contains my solutions to competitive programming and algorithmic
 - **Platforms:** Codewars
 
 ## 📁 Repository Structure
+├── codewars/
+
+└── README.md
+
+<!-- ## 📊 Solved Challenges -->
+
+## 🚀 How to Run
+
+1. Clone this repository:
+   ```bash
+   git clone [https://github.com/your-username/repository-name.git](https://github.com/your-username/repository-name.git)
+   cd repository-name
