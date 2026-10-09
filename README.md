@@ -12,9 +12,12 @@ This repository contains my solutions to competitive programming and algorithmic
 - **Platforms:** Codewars
 
 ## 📁 Repository Structure
-├── codewars/
 
+```
+├── codewars/
+├── leetcode/
 └── README.md
+```
 
 <!-- ## 📊 Solved Challenges -->
 
