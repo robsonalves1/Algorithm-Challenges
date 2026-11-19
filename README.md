@@ -9,7 +9,7 @@ This repository contains my solutions to competitive programming and algorithmic
 
 ## 🛠️ Languages & Platforms
 - **Languages:** JavaScript
-- **Platforms:** Codewars
+- **Platforms:** Codewars, leetcode
 
 ## 📁 Repository Structure
 
@@ -19,11 +19,4 @@ This repository contains my solutions to competitive programming and algorithmic
 └── README.md
 ```
 
-<!-- ## 📊 Solved Challenges -->
 
-## 🚀 How to Run
-
-1. Clone this repository:
-   ```bash
-   git clone [https://github.com/your-username/repository-name.git](https://github.com/your-username/repository-name.git)
-   cd repository-name
